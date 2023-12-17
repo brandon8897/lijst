@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to right, rgb(64, 230, 64) , red);
+
+}
+@font-face {
+    font-family:  font;
+   src: url(./img/Roboto-Light.ttf);
+}
+
+.parent{
+    font-family:  font;
+}
+.div1{
+   text-align: center;
+}
+.div2{
+    text-align: center;
+}
+.div3{
+    text-align: center;
+}
+.div4{
+    text-align: center;  
+}
+.div2 > img{
+    width: 20%;
+}
