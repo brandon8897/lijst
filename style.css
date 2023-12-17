@@ -1,7 +1,5 @@
 body{
-    background-image: linear-gradient(to right, rgb(64, 230, 64) , red);
-    background-repeat: no-repeat; 
-    background-size: cover;
+\
 }
 @font-face {
     font-family:  font;
